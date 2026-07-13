@@ -1,0 +1,22 @@
+New Employee Onboarding Guide — Data & Engineering Team
+
+Before your first day
+IT will email you a laptop setup link and temporary VPN credentials three business days before your start date. Complete the security training module linked in that email before day one.
+
+Day one checklist
+Report to reception by 9:30 AM for badge photo and building access setup. Your manager will walk you through team structure, current projects, and your first two-week ramp-up plan.
+
+Access requests
+Request access to Git repositories, the data warehouse, and internal dashboards through the Access Portal. Most standard access is approved automatically within one hour; elevated access requires manager sign-off and can take up to two business days.
+
+Development environment setup
+Clone the team starter-kit repository and run the setup script, which installs the required Python version, package manager, and pre-commit hooks. Reach out in the #eng-onboarding channel if the setup script fails.
+
+Code review norms
+Every change needs at least one approval before merging. Reviews are expected within one business day. Use draft pull requests for early feedback on work in progress.
+
+On-call rotation
+New engineers join the on-call rotation after 90 days, always shadowing an experienced engineer for their first two rotations before going solo.
+
+Who to ask
+Your manager is your first point of contact for role and project questions. For access or tooling issues, post in #eng-onboarding. For anything else, the #general channel is a good place to ask.
