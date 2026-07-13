@@ -1,0 +1,22 @@
+Cloud Storage Plan — Frequently Asked Questions
+
+What plans are available?
+We offer three plans: Starter (50 GB), Team (500 GB), and Business (2 TB). All plans include automatic daily backups and end-to-end encryption for files at rest.
+
+How do I upgrade or downgrade my plan?
+Go to Account Settings > Billing > Change Plan. Upgrades take effect immediately and are billed pro-rata for the current cycle. Downgrades take effect at the start of the next billing cycle.
+
+What happens if I exceed my storage limit?
+You will receive an email warning at 90% usage. Once you exceed 100% of your limit, uploads are paused until you free up space or upgrade your plan. Existing files remain accessible.
+
+Can I share files with people outside my organization?
+Yes. Any file or folder can be shared via a link with view-only or edit permissions. Admins can restrict external sharing at the workspace level from Account Settings > Security.
+
+How long are deleted files kept before permanent removal?
+Deleted files move to Trash and are kept for 30 days before permanent deletion. You can restore any file from Trash during that window.
+
+Is there a limit on individual file size?
+The Starter plan supports files up to 5 GB. Team and Business plans support files up to 50 GB per upload.
+
+What regions is data stored in?
+By default, data is stored in the region closest to your account signup location. Business plan customers can pin storage to a specific region from Account Settings > Data Residency.
